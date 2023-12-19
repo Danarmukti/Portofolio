@@ -27,13 +27,6 @@ body {
   padding: 12rem 7rem;
 }
 
-.about {
-  background: #4156bf;
-}
-
-.project {
-}
-
 .media:hover {
   transition: 0.3s;
   border-radius: 100;
@@ -150,6 +143,6 @@ label {
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
-    height: 150vh;
+    height: 100%;
   }
 }

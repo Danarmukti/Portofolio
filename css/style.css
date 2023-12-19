@@ -149,4 +149,8 @@ label {
     background-blend-mode: overlay;
     height: 150vh;
   }
+
+  section {
+    padding: 10rem 1.5rem;
+  }
 }
